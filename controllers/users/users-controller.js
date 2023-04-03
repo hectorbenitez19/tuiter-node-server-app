@@ -56,4 +56,4 @@ const findUserById = (req, res) => {
 }
 
 
-export default UserController
+export default UserController;
